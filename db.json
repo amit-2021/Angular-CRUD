@@ -1,0 +1,77 @@
+{
+  "ProductList": [
+    {
+      "productName": "Apple new",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "helthy",
+      "date": "2022-03-25T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 60,
+      "comment": "tasty",
+      "date": "2021-11-08T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "papaya",
+      "category": "Fruits",
+      "freshness": "Fresh",
+      "price": 40,
+      "comment": "this fruit is sweet",
+      "date": "2022-03-21T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "Black berry",
+      "category": "Fruits",
+      "freshness": "Fresh",
+      "price": 200,
+      "comment": "high demand",
+      "date": "2022-03-21T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "Redmi k20",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 25000,
+      "comment": "this brand new phone in market.",
+      "date": "2022-05-10T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "ef",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 323,
+      "comment": "fsf",
+      "date": "2022-05-03T18:30:00.000Z",
+      "id": 13
+    },
+    {
+      "productName": "new",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 2323,
+      "comment": "sdfs",
+      "date": "2022-05-11T18:30:00.000Z",
+      "id": 14
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
